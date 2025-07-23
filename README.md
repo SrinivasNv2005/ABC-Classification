@@ -145,9 +145,8 @@ For comprehensive understanding of the theoretical foundation, refer to the comp
 For questions or collaboration opportunities, please reach out:
 
 📧 **Email**: [sriram0031@gmail.com]
-🐙 **GitHub**: [[@JRK-007](https://github.com/SrinivasNv2005)]
-💼 **LinkedIn**: [[LinkedIn Profile](linkedin.com/in/srinivas-nv-720822278
-)]
+🐙 **GitHub**: [[@Srinivas NV](https://github.com/SrinivasNv2005)]
+💼 **LinkedIn**: [[LinkedIn Profile](https://www.linkedin.com/in/srinivas-nv-720822278/)]
 
 Feel free to open GitHub issues for bug reports, feature requests, or general discussions about the project.
 
