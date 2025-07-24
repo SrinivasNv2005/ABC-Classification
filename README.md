@@ -118,6 +118,10 @@ This implementation is based on the research paper:
 **Abstract:** Industries increasingly rely on efficient inventory management, logistics, and supply chain operations, and ML-based intelligence frameworks have emerged as indispensable tools. This research centers around the application of ML techniques within the framework of the ABC Inventory Classification methodology, examining five ML algorithms: Decision Tree Algorithm, Support Vector Machines (SVM), Random Forest Classifier, Naïve Bayes Classifier and K-nearest neighbors (KNN), with Random Forest Classifiers achieving the highest accuracy at 93%.
 
 ## 🤝 Contributing
+## Project contributions :
+[Naveen Sarvan Kumar](https://github.com/naveen26200544) 
+
+[Rahul Krishna J](https://github.com/JRK-007/)
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
